@@ -1,4 +1,6 @@
 # Bank-Loan-Analysis-Dashboard-Finance-Domain
+# Problem statement:
+FinTrust Bank was experiencing inefficiencies in its loan approval system, with limited visibility into regional trends and risk-prone customer profiles. The lack of a robust analytical solution led to rising bad loan rates and delayed decision-making.
 
 
 # Project Overview:
