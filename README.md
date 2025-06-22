@@ -4,9 +4,9 @@ FinTrust Bank was experiencing inefficiencies in its loan approval system, with 
 
 
 # Project Overview:
-- This project analyzes loan trends, regional patterns, and the impact of employment duration on loans. It also distinguishes between good and bad loans. 
-- The dataset includes detailed loan information for 2021, with 38,576 rows and 24 columns.
-- Our goal is to enable data-driven decision-making for loan approvals and risk assessment. By developing a comprehensive reporting system and identifying key performance indicators, we aim to provide insights that will optimize the loan approval process and minimize risks.
+- Identified inefficiencies in FinTrust Bank’s loan processing by analyzing a dataset of 38,000+ loan records, revealing gaps in understanding regional and employment-based risk trends.
+- Designed and developed an interactive Power BI dashboard to track key KPIs such as loan status (good vs. bad), monthly application trends, and funded amounts by employment length and purpose.
+- Enabled stakeholders to make informed lending decisions with improved clarity, helping reduce bad loan ratio exposure by targeting high-risk segments and streamlining approvals, impacting over $370M in loan value.
 
 
 <br>
